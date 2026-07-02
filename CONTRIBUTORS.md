@@ -12,7 +12,7 @@ NeuroLens was built as part of the Open Source Development course (PBL) at JIIT 
 | Saksham Dixit | [@SaksshamDixit](https://github.com/SaksshamDixit) | Dataset & Repo Support | MNIST dataset integration, repository maintenance |
 | Harry Chauhan | [@2501030343-png](https://github.com/2501030343-png) | Frontend — Input & Data Layer | Drawing canvas, touch support, base64 preprocessing, `usePrediction` hook, `useArchitecture` hook, random-digit fetch utility |
 | Vidhi thapliyal | [@2501030343-png](https://github.com/2501030343-png) | Frontend — Visualization & UI | Network visualizer (SVG), probability bar chart, prediction display, Manim-style color system, staged animation engine |
-| Harshda | [@2501200094](https://github.com/2501200094) | Documentation & Repo Maintenance | README, architecture docs, CONTRIBUTING.md, CHANGELOG.md, GitHub Issues and Discussions management |
+| Harshda Puri | [@2501200094](https://github.com/2501200094) | Documentation & Repo Maintenance | README, architecture docs, CONTRIBUTING.md, CHANGELOG.md, GitHub Issues and Discussions management |
 
 ---
 
@@ -54,7 +54,7 @@ frontend/src/App.jsx
 frontend/src/index.css
 ```
 
-### Documentation & Repo Maintenance - Harshda
+### Documentation & Repo Maintenance - Harshda Puri
 ```
 README.md
 CONTRIBUTING.md
