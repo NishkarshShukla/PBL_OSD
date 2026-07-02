@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# MNIST raw files — auto re-downloaded by train.py, no need to version them
+backend/training/dataset/
+
+# Env / secrets
+.env
+.env.local
+
+# Frontend
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
