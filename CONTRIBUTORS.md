@@ -48,7 +48,7 @@ frontend/src/utils/fetchRandomDigit.js
 
 ### Frontend: Visualization & UI - Vidhi Thapiyal
 ```
-frontend/src/components/NetworkVisualizer.jsx
+
 frontend/src/components/ProbabilityBars.jsx
 frontend/src/components/PredictionDisplay.jsx
 frontend/src/utils/colors.js
@@ -58,6 +58,7 @@ frontend/src/index.css
 
 ### Documentation & Repo Maintenance - Harshda Puri
 ```
+frontend/src/components/NetworkVisualizer.jsx
 README.md
 CONTRIBUTING.md
 LICENSE
