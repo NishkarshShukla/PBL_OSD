@@ -19,7 +19,7 @@ export default function App() {
     setTrueLabel(data.true_label);
     canvasRef.current?.loadExternalImage(data.image);
   };
-{/*implement*/}
+
   return (
     <div className="min-h-screen bg-black flex flex-col items-center justify-center gap-8 py-10">
       <h1 className="text-3xl font-bold text-white tracking-wide">NeuroLens</h1>

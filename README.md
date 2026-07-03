@@ -5,6 +5,15 @@ Real-Time Neural Network  Visualization for Handwritten Character RecognitionAn 
 
 Draw a digit on the canvas, and watch a real feedforward neural network light up in real time: neurons glow based on their actual activation values, connections are colored by their actual weight signs, and the predicted digit is revealed through an animated, staged cascade — not an instant snap.
 
+## Demo 
+
+
+https://github.com/user-attachments/assets/603cba81-147e-4b2e-bfb9-143969226674
+
+
+
+
+
 ## Features
 
 - **Live drawing canvas** — draw any digit (0–9) with mouse or touch
