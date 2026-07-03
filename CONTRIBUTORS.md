@@ -32,6 +32,8 @@ backend/requirements.txt
 ### Dataset & Repo Support - Saksham Dixit
 ```
 backend/dataset/
+CHANGELOG.md
+CONTRIBUTORS.md
 ```
 
 ### Frontend: Input & Data Layer - Harry Chauhan
@@ -58,8 +60,6 @@ frontend/src/index.css
 ```
 README.md
 CONTRIBUTING.md
-CHANGELOG.md
-CONTRIBUTORS.md
 LICENSE
 docs/architecture.md
 ```
